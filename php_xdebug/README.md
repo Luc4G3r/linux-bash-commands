@@ -5,7 +5,7 @@ _(works ONLY with [Ondrejs multiple PHP version PPA](https://launchpad.net/~ondr
 * create directory `/usr/local/etc/php/conf.d/`
 * pull this git
 ```
-git pull https://github.com/Luc4G3r/linux-bash-commands.git ~/tmp
+git clone https://github.com/Luc4G3r/linux-bash-commands.git ~/tmp
 ```
 * move files from `~/tmp/php_xdebug` to `/usr/local/etc/php/conf.d/`
 ```
