@@ -1,5 +1,5 @@
 # PHP xdebug fast enable/ disable
-_(works with [Ondrejs multiple PHP version PPA](https://launchpad.net/~ondrej/+archive/ubuntu/php))_
+_(works ONLY with [Ondrejs multiple PHP version PPA](https://launchpad.net/~ondrej/+archive/ubuntu/php) and PHP versions 5.6, 7.0-7.4 installed)_
 
 ## setup
 * create directory `/usr/local/etc/php/conf.d/`
