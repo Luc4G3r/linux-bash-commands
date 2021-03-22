@@ -15,4 +15,8 @@ git clone https://github.com/Luc4G3r/linux-bash-commands.git ~/tmp
 ```
   mv ~/tmp/php_xdebug/*.sh /usr/bin/
 ```
-* create aliases in `~/.profile` or `~/.bash_profile`
+* (optional) create aliases in `~/.profile` or `~/.bash_profile`
+```
+alias xdeben='. /usr/bin/xdebug_enable_globally.sh'
+alias xdebdis='. /usr/bin/xdebug_disable_globally.sh'
+```
