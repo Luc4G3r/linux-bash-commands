@@ -11,6 +11,7 @@ Miscellaneous bash command aliases / shell scripts for php web development
 
 ### Creating Bash Commands
 - Create shell script (f.e.: /etc/custom_commands/script.sh)
+    - Don't forget to add `#!/bin/bash` or another interpreter
 - Symlink shell script to /usr/local/bin  
   `ln -s /etc/custom_commands/script.sh /usr/local/bin/script`
 
